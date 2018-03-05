@@ -77,18 +77,19 @@
 	- 	¿En qué lo ocupo?
 	- 	¿Cuándo lo ocupo? 
 2. Configurar Github
- -	Crear cuenta en github.
- - Configurar clave SSH terminal.
- - testear configuración.
+ 	 -	Crear cuenta en github.
+	 - Configurar clave SSH terminal.
+	 - testear configuración.
  
 3. Conociendo Github.
-- crear un repositorio.
+   - crear un repositorio.
 	- git init, git add, git commit, git remote, git push 
-- clonar repositorio.
-- Forkear repositorio.
-- Github pages	
-- Git colaborativo
-	- git pull request.
-	- git fetch.  	
+   - clonar repositorio.
+    - Forkear repositorio.
+   - git fetch.  	
+
+4.	Github pages	
+   - git pull request.
+	
 
 
