@@ -76,7 +76,7 @@
 	- 	¿Dónde lo ocupo?
 	- 	¿En qué lo ocupo?
 	- 	¿Cuándo lo ocupo? 
-2. Configurar Github
+2.  Instalación y Configurar Github
  	 -	Crear cuenta en github.
 	 - Configurar clave SSH terminal.
 	 - testear configuración.
