@@ -69,26 +69,27 @@
 
 ## GitHub
 
-1. Intro a Github.
+1.	Repositorios remotos
+2. Intro a Github.
 	-	¿Qué es?
 	-	¿Para qué sirve?
 	- 	¿Cómo lo ocupo?
 	- 	¿Dónde lo ocupo?
 	- 	¿En qué lo ocupo?
 	- 	¿Cuándo lo ocupo? 
-2.  Instalación y Configurar Github
+3.  Instalación y Configurar Github
  	 -	Crear cuenta en github.
 	 - Configurar clave SSH terminal.
 	 - testear configuración.
  
-3. Conociendo Github.
+4. Conociendo Github.
    - crear un repositorio.
 	- git init, git add, git commit, git remote, git push 
    - clonar repositorio.
     - Forkear repositorio.
    - git fetch.  	
 
-4.	Github pages	
+5.	Github pages	
    - git pull request.
 	
 
